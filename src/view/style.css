@@ -1,0 +1,22 @@
+.root {
+    -fx-background-image: url("/img/Background.png");
+    -fx-background-size: cover;
+}
+.pane{
+    -fx-background-color: black;
+}
+.label{
+    -fx-text-fill: white;
+}
+.button{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+.button:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+.button:pressed{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
