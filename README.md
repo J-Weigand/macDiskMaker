@@ -13,4 +13,4 @@ folder
 - Launch "macDiskMaker"
 - Choose the corresponding OS you'd like to install
 - Type your Mac password in the commandline and hit enter
-- Be Patient. The install process can take sometime. The terminal will alert you once it's finished
+- Be Patient. The install process can take some time. The terminal will alert you once it's finished
