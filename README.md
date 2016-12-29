@@ -1,6 +1,6 @@
 # macDiskMaker
 A simple macOS application that can:
-Build a bootable macOS (Mac OS X) install desk with a few clicks.
+Build a bootable macOS (Mac OS X) install disk with a few clicks.
 
 ##Installation
 Download "macDiskMaker.DMG" and complete the installation process by dragging the icon to your Applications
